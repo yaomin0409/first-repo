@@ -1,0 +1,26 @@
+*   [33m2c23c56[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m Merge branch 'dev'
+[31m|[m[32m\[m  
+[31m|[m * [33mf8a388d[m[33m ([m[1;32mdev[m[33m)[m main:5
+[31m|[m * [33m2fdcd10[m dev:2
+[31m|[m * [33m689a141[m dev:1
+* [32m|[m [33m645b6a3[m master:2
+[32m|[m[32m/[m  
+[32m|[m * [33m5760dee[m[33m ([m[1;31morigin/main[m[33m)[m Create remote:02
+[32m|[m * [33m8a18aac[m Create remote:01
+[32m|[m[32m/[m  
+[32m|[m * [33m2751e41[m[33m ([m[1;32mmain[m[33m)[m main:7
+[32m|[m * [33mc4b3031[m main:3
+[32m|[m[32m/[m  
+* [33m72dcc64[m[33m ([m[1;32mtest[m[33m)[m make a new file6.xt
+* [33m3399a3b[m 修改了file4
+*   [33md90b3bc[m Merge branch 'main' of github.com:yaomin0409/first-repo
+[35m|[m[36m\[m  
+[35m|[m * [33m1489d8e[m Update README.md
+[35m|[m * [33ma1b5035[m Create README.md
+* [36m|[m [33m2fc8200[m 修改file3内容
+[36m|[m[36m/[m  
+* [33m045e29f[m test ignore folder
+* [33m6af3ef9[m test ignore log
+* [33m19f62ae[m ignore fille sample
+* [33md3520a9[m 这是第二次提交
+* [33mba691d6[m 第一次提交
